@@ -1,6 +1,4 @@
-.NET Core 5
 <h2 align="center">Employee Records App</h2>
-
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
